@@ -44,6 +44,8 @@
     "btn_secondary_border_color": "#5d5d5d",
     "grid_style": "compact",
     "enable_superscript": false,
+    "loading_image_1": "shopify:\/\/shop_images\/Logo_5_copy.png",
+    "loading_image_2": "shopify:\/\/shop_images\/ay2_31051.jpg",
     "product_grid_center": false,
     "overlay_text": false,
     "image_hover_enable": true,
