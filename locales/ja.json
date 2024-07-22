@@ -33,7 +33,6 @@
       "page": "ページ{{ page }}"
     },
     "breadcrumbs": {
-      "home": "家",
       "products": "製品",
       "go_back": "戻る"
     },
