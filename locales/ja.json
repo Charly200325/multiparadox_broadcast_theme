@@ -455,7 +455,7 @@
   "cart": {
     "general": {
       "title": "ショッピングカート",
-      "vendor": "ベンダー",
+      "vendor": "ブランド",
       "remove": "取り除く",
       "subtotal": "小計",
       "subtotal_items": "アイテム",
@@ -470,7 +470,7 @@
       "estimate_shipping_label": "配送の見積もり",
       "gift_notes_label": "これは、贈り物ですか？",
       "gift_note_attribute": "ギフトノート",
-      "update": "カートの更新",
+      "update": "ショッピングカートを更新する",
       "checkout": "チェックアウト",
       "accept_terms": "当社の利用規約に同意する必要があります。",
       "accepted_terms": "利用規約に同意しますか?",
