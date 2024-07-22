@@ -527,8 +527,8 @@
         "other": "アイテム"
       },
       "colors_with_count": {
-        "one": "色",
-        "other": "色"
+        "one": "カラー",
+        "other": "カラー"
       }
     },
     "sidebar": {
