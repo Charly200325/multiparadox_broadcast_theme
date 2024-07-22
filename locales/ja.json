@@ -17,8 +17,8 @@
       "label": "色"
     },
     "products_with_count": {
-      "one": "{{ count }}個の商品",
-      "other": "{{ count }}個の商品"
+      "one": "{{ count }}個",
+      "other": "{{ count }}個"
     },
     "size_chart": {
       "title": "サイズチャート",
