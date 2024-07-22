@@ -130,9 +130,6 @@
     "pagination": {
       "prev": "前の",
       "next": "次"
-    },
-    "shop_the_look": {
-      "button": "ルックを購入する"
     }
   },
   "blogs": {
