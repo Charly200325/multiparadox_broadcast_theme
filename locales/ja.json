@@ -550,5 +550,10 @@
       "required_field_text": "アスタリスク（*）の付いたフィールドは必須です。",
       "post_success": "お問い合わせいただきありがとうございます。できるだけ早くご返信させていただきます。"
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " "
+    }
   }
 }
