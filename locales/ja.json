@@ -484,11 +484,11 @@
       "quantity_field_label": "数量フィールド",
       "continue_shopping": "ショッピングを続ける",
       "discount_label": "{{ title }}で{{ amount }}節約できます",
-      "limit_message": "購入可能な商品はもうありません",
-      "add_message": "商品を追加しました: ",
+      "limit_message": "購入可能な製品はもうありません",
+      "add_message": "製品を追加しました: ",
       "total_message": {
-        "one": "ショッピングカートに{{ count }}商品があります",
-        "other": "ショッピングカートには{{ count }}商品があります"
+        "one": "ショッピングカートに{{ count }}個の製品があります",
+        "other": "ショッピングカートには{{ count }}個の製品があります"
       },
       "qualified_shipping_message": "おめでとうございます！ご注文は送料無料となります"
     },
