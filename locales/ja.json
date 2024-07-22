@@ -159,7 +159,14 @@
       "post": "コメントを書く",
       "moderated": "コメントは公開前に承認される必要があることに注意してください",
       "success_moderated": "コメントは正常に投稿されました。当ブログは管理されているため、しばらくしてから公開されます。",
-      "success": "コメントが正常に投稿されました。ありがとうございます。"
+      "success": "コメントが正常に投稿されました。ありがとうございます。",
+      "comments_with_count": {
+        "one": "{{ count }}件のコメント",
+        "other": "{{ count }}件のコメント"
+      }
+    },
+    "sidebar": {
+      "see_more": "続きを見る..."
     }
   },
   "customer": {
@@ -170,7 +177,21 @@
       "cancel": "キャンセル",
       "edit": "編集",
       "delete": "消去",
-      "delete_confirm": "このアドレスを削除してもよろしいですか?"
+      "delete_confirm": "このアドレスを削除してもよろしいですか?",
+      "title": "あなたの住所",
+      "default": "デフォルト",
+      "add_new": "新しいアドレスを追加",
+      "edit_address": "住所を編集",
+      "first_name": "ファーストネーム",
+      "last_name": "苗字",
+      "company": "会社",
+      "address1": "住所（1",
+      "address2": "アドレス2",
+      "city": "市",
+      "country": "国",
+      "province": "州",
+      "zip": "郵便番号",
+      "phone": "電話"
     },
     "login": {
       "title": "ログイン",
@@ -241,6 +262,22 @@
       "cancel": "ストアに戻る",
       "sign_in_prompt": "すでにアカウントをお持ちですか？",
       "sign_in_cta": "ここからサインイン"
+    },
+    "account": {
+      "account": "アカウント",
+      "title": "私のアカウント",
+      "details": "アカウント詳細",
+      "view_addresses": "住所を表示",
+      "return": "アカウント詳細に戻る",
+      "contact_store": "ショップへのお問い合わせ"
+    },
+    "activate_account": {
+      "title": "アカウントを有効にする",
+      "subtext": "アカウントを有効にするにはパスワードを作成してください。",
+      "password": "パスワード",
+      "password_confirm": "パスワードを認証する",
+      "submit": "アカウントを有効にする",
+      "cancel": "招待を辞退する"
     }
   },
   "date_formats": {
@@ -413,6 +450,103 @@
       "store_login": "ストアログイン",
       "newsletter_signup": "ニュースレター登録",
       "login": "ログイン"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "カート",
+      "vendor": "ベンダー",
+      "remove": "取り除く",
+      "subtotal": "小計",
+      "subtotal_items": "アイテム",
+      "subtotal_note": "配送料、税金、割引コードはチェックアウト時に計算されます",
+      "customer_note": "ご注文に関するメモを残す",
+      "cart_notes_label": "注文メモを追加",
+      "products_with_count": {
+        "one": "製品",
+        "other": "製品"
+      },
+      "pair_products": "ペアリング",
+      "estimate_shipping_label": "配送の見積もり",
+      "gift_notes_label": "これは、贈り物ですか？",
+      "gift_note_attribute": "ギフトノート",
+      "update": "カートの更新",
+      "checkout": "チェックアウト",
+      "accept_terms": "当社の利用規約に同意する必要があります。",
+      "accepted_terms": "利用規約に同意しますか?",
+      "view_cart": "かごの中身を見る",
+      "empty": "あなたのカートは空です",
+      "savings": "節約しています",
+      "with": "と",
+      "or": "または",
+      "increase_quantity_label": "ボタンの数量を増やす",
+      "decrease_quantity_label": "ボタンの数量を減らす",
+      "quantity_field_label": "数量フィールド",
+      "continue_shopping": "ショッピングを続ける",
+      "discount_label": "{{ title }}で{{ amount }}節約できます",
+      "limit_message": "購入可能な商品はもうありません",
+      "add_message": "製品を追加しました: ",
+      "total_message": {
+        "one": "カートに{{ count }}商品があります",
+        "other": "カートには{{ count }}商品があります"
+      },
+      "qualified_shipping_message": "おめでとうございます！ご注文は送料無料となります"
+    },
+    "shipping_calculator": {
+      "estimate_shipping": "配送の見積もり",
+      "calculate_shipping": "送料を計算します",
+      "calculating": "計算中...",
+      "no_shipping_available": "この目的地には発送できません。"
+    }
+  },
+  "collections": {
+    "general": {
+      "title": "コレクション",
+      "view_collection": "コレクションを見る",
+      "no_matches": "申し訳ございませんが、ここには商品がありません。",
+      "link_title": "{{ title }}コレクションを閲覧する",
+      "sort": "並べ替え",
+      "filter_by": "フィルター",
+      "filters": "フィルター",
+      "show_filters": "フィルターを表示",
+      "hide_filters": "フィルターを非表示",
+      "clear_filters": "フィルターをクリア",
+      "no_filters": "このコレクションにはフィルターがありません",
+      "all": "全て",
+      "reset": "リセット",
+      "view_items_with_count": {
+        "one": "{{ count }}個のアイテムを表示",
+        "other": "{{ count }}件のアイテムを表示"
+      },
+      "show_more": "より多くのオプション",
+      "items": {
+        "heading": "コレクション",
+        "one": "アイテム",
+        "other": "アイテム"
+      },
+      "colors_with_count": {
+        "one": "色",
+        "other": "色"
+      }
+    },
+    "sidebar": {
+      "vendors": "ベンダー",
+      "no_vendors": "このリストが自動的に構築されるように、製品にベンダーを追加します。",
+      "tags": "タグ",
+      "no_tags": "このリストが自動的に作成されるように、製品にタグを追加します。"
+    }
+  },
+  "contact": {
+    "form": {
+      "name": "名前",
+      "email": "Eメール",
+      "message": "メッセージ",
+      "phone": "電話番号",
+      "subject": "主題",
+      "send": "送信",
+      "select_default": "選んでください",
+      "required_field_text": "アスタリスク（*）の付いたフィールドは必須です。",
+      "post_success": "お問い合わせいただきありがとうございます。できるだけ早くご返信させていただきます。"
     }
   }
 }
