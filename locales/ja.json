@@ -49,7 +49,7 @@
       "error_message": "この顧客はすでに登録されています。",
       "product_notification_for": "製品通知",
       "newsletter_product_availability": "利用可能になったら通知する",
-      "notify": "私に通知する",
+      "notify": "通知する",
       "email": "あなたのメールアドレス",
       "email_label": "メールアドレスを入力すると、選択した商品が入手可能になったときにお知らせします。",
       "notification_success": "メールを受信しました。"
