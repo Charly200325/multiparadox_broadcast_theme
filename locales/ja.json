@@ -485,7 +485,7 @@
       "continue_shopping": "ショッピングを続ける",
       "discount_label": "{{ title }}で{{ amount }}節約できます",
       "limit_message": "購入可能な商品はもうありません",
-      "add_message": "製品を追加しました: ",
+      "add_message": "商品を追加しました: ",
       "total_message": {
         "one": "ショッピングカートに{{ count }}商品があります",
         "other": "ショッピングカートには{{ count }}商品があります"
