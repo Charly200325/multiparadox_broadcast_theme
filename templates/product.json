@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -112,7 +121,7 @@
         "product_sticky_enable": true,
         "variant_image_scroll": true,
         "image_layout": "stacked",
-        "image_size": "normal",
+        "image_size": "stretch",
         "show_cart_bar": true,
         "enable_zoom": true,
         "enable_video_looping": false,
@@ -283,7 +292,7 @@
           "type": "image",
           "settings": {
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "show_overlay_text": false,
             "title": "",
             "heading_size": 7,
@@ -291,7 +300,7 @@
             "text_size": 3,
             "flex_align": "align--middle-center",
             "bg_color": "",
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "link_text": "",
             "link": "",
             "button_type": "btn--primary",
@@ -367,7 +376,7 @@
           "type": "image",
           "settings": {
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "show_overlay_text": false,
             "title": "",
             "heading_size": 7,
@@ -375,7 +384,7 @@
             "text_size": 3,
             "flex_align": "align--middle-center",
             "bg_color": "",
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "link_text": "",
             "link": "",
             "button_type": "btn--primary",
