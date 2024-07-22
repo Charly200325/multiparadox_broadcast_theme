@@ -8,4 +8,158 @@
 * ------------------------------------------------------------
 */
 {
+  "general": {
+    "ie11_support_message": "このサイトは、お使いのブラウザに対して限定的なサポートを提供しています。Edge、Chrome、Safari、または Firefox に切り替えることをお勧めします。",
+    "swatches": {
+      "color": "色、色"
+    },
+    "siblings": {
+      "label": "色"
+    },
+    "products_with_count": {
+      "one": "{{ count }}個の商品",
+      "other": "{{ count }}個の商品"
+    },
+    "size_chart": {
+      "title": "サイズチャート",
+      "size": "サイズ"
+    },
+    "404": {
+      "title": "404 ページが見つかりません",
+      "subtext_html": "要求されたページは存在しません。"
+    },
+    "meta": {
+      "tags": "「 {{ tags }} 」というタグが付けられています",
+      "page": "ページ{{ page }}"
+    },
+    "breadcrumbs": {
+      "home": "家",
+      "products": "製品",
+      "go_back": "戻る"
+    },
+    "forms": {
+      "post_error": "申し訳ございませんが、問題が発生したようです。以下の点を修正して再度送信してください。"
+    },
+    "newsletter_form": {
+      "newsletter_email": "Eメール",
+      "name": "名前",
+      "submit": "参加する",
+      "placeholder": "電子メールアドレス",
+      "thank_you": "ご登録ありがとうございます！",
+      "thank_you_with_code_html": "ご登録ありがとうございます。コード<span>「Discount10」<\/span>を使用すると 10% 割引になります。",
+      "error_message": "この顧客はすでに登録されています。",
+      "product_notification_for": "製品通知",
+      "newsletter_product_availability": "利用可能になったら通知する",
+      "notify": "私に通知する",
+      "email": "あなたのメールアドレス",
+      "email_label": "メールアドレスを入力すると、選択した商品が入手可能になったときにお知らせします。",
+      "notification_success": "メールを受信しました。"
+    },
+    "search": {
+      "articles": "ブログ投稿",
+      "no_results": "「 {{ terms }} 」に該当する結果は見つかりませんでした。スペルを確認するか、別の単語またはフレーズを使用してください。",
+      "page": "ページ",
+      "products": "製品",
+      "results_pages_with_count": {
+        "one": "{{ count }}ページ",
+        "other": "{{ count }}ページ"
+      },
+      "results_suggestions_with_count": {
+        "one": "{{ count }}件の提案",
+        "other": "{{ count }}件の提案"
+      },
+      "results_products_with_count": {
+        "one": "{{ count }}個の商品",
+        "other": "{{ count }}個の商品"
+      },
+      "results_with_count": {
+        "one": "{{ count }}結果",
+        "other": "{{ count }}件の結果"
+      },
+      "results_with_count_and_term": {
+        "one": "「 {{ terms }} 」に一致する結果が{{ count }}件見つかりました",
+        "other": "「 {{ terms }} 」に一致する結果が{{ count }}件見つかりました"
+      },
+      "title": "の検索結果",
+      "search_for": "「 {{ terms }} 」を検索",
+      "reset": "リセット",
+      "clear": "クリア",
+      "suggestions": "提案",
+      "pages": "ページ",
+      "placeholder": "ストアを検索",
+      "search": "検索",
+      "popular_searches": "人気の検索",
+      "popular_products": "人気商品"
+    },
+    "accessibility": {
+      "skip_to_content": "コンテンツにスキップ",
+      "unit_price_separator": "あたり",
+      "close": "近い",
+      "show_menu": "メニューを表示",
+      "exit_menu": "メニューを終了",
+      "view": "ビュー",
+      "scroll_to_top": "トップにスクロールします",
+      "scroll_to_product": "製品までスクロール",
+      "scroll_to_logo": "ロゴまでスクロール",
+      "footer_logo": "フッターロゴ",
+      "slide_image": "スライド画像"
+    },
+    "cookies": {
+      "title": "クッキーを保存できますか？",
+      "cookies_link": "クッキー",
+      "text_html": "Broadcast は、ブラウジング体験を向上させるために{{ cookies }}を使用します。",
+      "access": "受け入れる"
+    },
+    "social": {
+      "share_on_facebook": "共有",
+      "share_on_twitter": "つぶやき",
+      "share_on_pinterest": "ピンする",
+      "copied_text": "コピーしました！",
+      "alt_text": {
+        "share_on_facebook": "Facebookでシェア",
+        "share_on_twitter": "Twitterでツイートする",
+        "share_on_pinterest": "Pinterest にピン留めする"
+      }
+    },
+    "share": {
+      "share": "共有",
+      "share_url": "リンク",
+      "copy_to_clipboard": "リンクをコピーする",
+      "success_message": "リンクをクリップボードにコピーしました"
+    },
+    "money": {
+      "free": "無料"
+    },
+    "pagination": {
+      "prev": "前の",
+      "next": "次"
+    },
+    "shop_the_look": {
+      "button": "ルックを購入する"
+    }
+  },
+  "blogs": {
+    "article": {
+      "by_author": "{{ author }}による",
+      "older_post": "古い投稿",
+      "newer_post": "より新しいポスト",
+      "related_products": "関連製品",
+      "tags": "タグ",
+      "read_more": "続きを読む",
+      "read_more_descriptive": "全文を読むにはここをクリックしてください",
+      "no_articles": "表示する記事はありません。",
+      "back_to": "戻る",
+      "all": "全て"
+    },
+    "comments": {
+      "title": "コメントを残す",
+      "name": "名前",
+      "email": "Eメール",
+      "comment": "コメント",
+      "post": "コメントを書く",
+      "moderated": "コメントは公開前に承認される必要があることに注意してください",
+      "success_moderated": "コメントは正常に投稿されました。当ブログは管理されているため、しばらくしてから公開されます。",
+      "success": "コメントが正常に投稿されました。ありがとうございます。"
+    }
+  }
 }
