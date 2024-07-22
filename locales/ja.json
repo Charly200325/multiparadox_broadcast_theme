@@ -11,10 +11,10 @@
   "general": {
     "ie11_support_message": "このサイトは、お使いのブラウザに対して限定的なサポートを提供しています。Edge、Chrome、Safari、または Firefox に切り替えることをお勧めします。",
     "swatches": {
-      "color": "色、色"
+      "color": "カラー"
     },
     "siblings": {
-      "label": "色"
+      "label": "カラー"
     },
     "products_with_count": {
       "one": "{{ count }}個",
