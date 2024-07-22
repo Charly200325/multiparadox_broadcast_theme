@@ -161,5 +161,144 @@
       "success_moderated": "コメントは正常に投稿されました。当ブログは管理されているため、しばらくしてから公開されます。",
       "success": "コメントが正常に投稿されました。ありがとうございます。"
     }
+  },
+  "customer": {
+    "addresses": {
+      "set_default": "デフォルトのアドレスとして設定",
+      "add": "住所を追加",
+      "update": "住所の更新",
+      "cancel": "キャンセル",
+      "edit": "編集",
+      "delete": "消去",
+      "delete_confirm": "このアドレスを削除してもよろしいですか?"
+    },
+    "login": {
+      "title": "ログイン",
+      "email": "Eメール",
+      "password": "パスワード",
+      "forgot_password": "パスワードをお忘れですか？",
+      "sign_in": "サインイン",
+      "cancel": "ストアに戻る",
+      "guest_title": "ゲストとして続行",
+      "guest_continue": "続く",
+      "create_account_prompt": "アカウントをお持ちではありませんか?",
+      "create_account_cta": "こちらから登録"
+    },
+    "orders": {
+      "title": "注文履歴",
+      "order_number": "注文",
+      "date": "日付",
+      "payment_status": "支払い状況",
+      "fulfillment_status": "履行状況",
+      "total": "合計",
+      "none": "まだ注文は出ていません。"
+    },
+    "order": {
+      "title": "{{ name }}注文する",
+      "date": "{{ date }}に掲載",
+      "cancelled": "{{ date }}に注文がキャンセルされました",
+      "cancelled_reason": "理由: {{ reason }}",
+      "billing_address": "請求先住所",
+      "payment_status": "支払い状況",
+      "shipping_address": "お届け先の住所",
+      "fulfillment_status": "履行状況",
+      "discount": "割引",
+      "shipping": "配送",
+      "tax": "税",
+      "details": {
+        "product": "製品",
+        "sku": "製品コード",
+        "price": "価格",
+        "quantity": "量",
+        "total": "合計",
+        "fulfilled_at": "{{ date }}に達成",
+        "saved_with": "保存された",
+        "subtotal": "小計"
+      }
+    },
+    "recover_password": {
+      "title": "あなたのパスワードをリセット",
+      "email": "Eメール",
+      "submit": "提出する",
+      "cancel": "キャンセル",
+      "subtext": "パスワードをリセットするためのメールをお送りします。",
+      "success": "パスワードを更新するためのリンクを記載したメールを送信しました。"
+    },
+    "reset_password": {
+      "title": "アカウントパスワードをリセットする",
+      "subtext": "{{ email }}の新しいパスワードを入力してください",
+      "password": "パスワード",
+      "password_confirm": "パスワードを認証する",
+      "submit": "パスワードを再設定する"
+    },
+    "register": {
+      "title": "アカウントを作成する",
+      "first_name": "ファーストネーム",
+      "last_name": "苗字",
+      "email": "Eメール",
+      "password": "パスワード",
+      "submit": "作成する",
+      "cancel": "ストアに戻る",
+      "sign_in_prompt": "すでにアカウントをお持ちですか？",
+      "sign_in_cta": "ここからサインイン"
+    }
+  },
+  "date_formats": {
+    "full_date_and_time": "%B %d、%Y %I:%M%p"
+  },
+  "home_page": {
+    "sections": {
+      "frontpage_title": "フロントページコレクション",
+      "featured_title": "注目のコレクション",
+      "news_title": "最新ニュース"
+    },
+    "onboarding": {
+      "no_products_html": "フロントページ コレクションには製品がありません。<a href=\"\/admin\/custom_collections\">このコレクションに製品を追加する<\/a>まで、このプレースホルダが表示されます。",
+      "add_product": "製品を追加",
+      "product_title": "製品名",
+      "no_collections_html": "ここに表示するコレクションがありません。デフォルトのフロントページに合わせて<a href=\"\/admin\/custom_collections\">コレクションをいくつか追加してください<\/a>。",
+      "no_description": "これは製品の説明のサンプルです。製品を追加すると、このテキストは変更されます。",
+      "no_content": "このセクションには現在コンテンツが含まれていません。サイドバーを使用してこのセクションにコンテンツを追加してください。",
+      "collection_image": "コレクション画像",
+      "collection_title": "コレクションタイトルの例",
+      "size": "サイズ",
+      "color": "色"
+    }
+  },
+  "layout": {
+    "customer": {
+      "logged_in_as": "ログイン",
+      "log_out": "ログアウト",
+      "log_in": "ログイン",
+      "create_account": "アカウントを作成する"
+    },
+    "header": {
+      "menu": "メニュー",
+      "search": "検索",
+      "account": "アカウント",
+      "cart": "カート",
+      "gift_card": "ギフトカード",
+      "gift_card_url": "ギフトカード"
+    },
+    "footer": {
+      "linklist_title": "クイックリンク",
+      "social_title": "接続する",
+      "newsletter_title": "ニュースレター",
+      "currency": "通貨",
+      "language": "言語",
+      "accepted_payments": "利用可能な支払い方法"
+    },
+    "search_page": {
+      "singular_article": "役職",
+      "singular_page": "ページ"
+    }
+  },
+  "products": {
+    "general": {
+      "previous": "前の",
+      "next": "次",
+      "from": "から",
+      "quick_add": "クイック追加"
+    }
   }
 }
