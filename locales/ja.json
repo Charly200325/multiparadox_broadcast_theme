@@ -487,8 +487,8 @@
       "limit_message": "購入可能な商品はもうありません",
       "add_message": "製品を追加しました: ",
       "total_message": {
-        "one": "カートに{{ count }}商品があります",
-        "other": "カートには{{ count }}商品があります"
+        "one": "ショッピングカートに{{ count }}商品があります",
+        "other": "ショッピングカートには{{ count }}商品があります"
       },
       "qualified_shipping_message": "おめでとうございます！ご注文は送料無料となります"
     },
