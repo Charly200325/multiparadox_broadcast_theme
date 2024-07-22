@@ -463,8 +463,8 @@
       "customer_note": "ご注文に関するメモを残す",
       "cart_notes_label": "注文メモを追加",
       "products_with_count": {
-        "one": "商品",
-        "other": "商品"
+        "one": "製品",
+        "other": "製品"
       },
       "pair_products": "ペアリング",
       "estimate_shipping_label": "配送の見積もり",
