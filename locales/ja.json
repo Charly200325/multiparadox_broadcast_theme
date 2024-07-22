@@ -298,7 +298,121 @@
       "previous": "前の",
       "next": "次",
       "from": "から",
-      "quick_add": "クイック追加"
+      "quick_add": "クイック追加",
+      "added_to_cart": "カートに追加されました",
+      "recently_viewed": "最近見たもの",
+      "view_space": "あなたのスペースで見る",
+      "description": "説明",
+      "read_more": "続きを読む",
+      "view_product": "製品を見る",
+      "see_all": "すべてを見る",
+      "to": "に",
+      "complementary_products_title": "相性が良い",
+      "choose_product": "製品を選択",
+      "product_info": "セクション設定から1つ選択",
+      "upsell_title": "外観を完成させる:",
+      "upsell_add_to_cart": "追加",
+      "upsell_out_of_stock": "在庫切れ",
+      "upsell_error_title": "アップセル製品を選択する",
+      "upsell_error_info": "ここで製品を表示するにはメタフィールドを使用します。空のアップセルはライブサイトには表示されません。",
+      "missing_metafield_image": "ここで画像を表示するにはメタフィールドを使用します。空のメタフィールドはライブサイトには表示されません。",
+      "shop_now": "今すぐ購入"
+    },
+    "product": {
+      "regular_price": "通常価格",
+      "sold_out": "完売",
+      "sale_type": "販売タイプ",
+      "new": "新しい",
+      "pre_order": "予約注文",
+      "on_sale": "セール",
+      "final_sale": "ファイナルセール",
+      "unavailable": "利用不可",
+      "compare_at": "比較する",
+      "unit_price_label": "単価",
+      "subscription": "サブスクリプション",
+      "save": "保存",
+      "off": "オフ",
+      "sku": "製品コード",
+      "one_time_purchase": "1回限りの購入",
+      "quantity": "量",
+      "add_to_cart": "カートに追加",
+      "added": "カートに追加されました:",
+      "vendor": "ベンダー",
+      "type": "タイプ",
+      "tags": "タグ",
+      "variant_option_image": "サイズ",
+      "ask_title": "この製品について質問する:",
+      "zoom": "ズーム",
+      "configure": "構成、設定",
+      "select": "選択する",
+      "select_value": "値を選択",
+      "select_color": "色を選択",
+      "each": "それぞれ",
+      "in_stock": "商品は在庫あり",
+      "out_of_stock": "在庫切れです",
+      "item_unavailable": "商品は入手できません",
+      "remaining_html": "お急ぎください。残り{{ inventory }}個のみです。",
+      "remaining_no_count": "お急ぎください！在庫が少なくなっています",
+      "pickup_availability": {
+        "pickup_options": "ピックアップオプション",
+        "view_store_info": "店舗情報を見る",
+        "check_other_stores": "他の店舗の在庫状況を確認する",
+        "pick_up_available": "ピックアップ可能",
+        "pick_up_available_at_html": "<strong>{{ location_name }}<\/strong>で受け取り可能",
+        "pick_up_unavailable_at_html": "<strong>{{ location_name }}<\/strong>では現在ピックアップできません",
+        "unavailable": "ピックアップの空き状況を読み込めませんでした",
+        "refresh": "リフレッシュ"
+      }
+    }
+  },
+  "countdown": {
+    "days": "日々",
+    "hours": "時間",
+    "minutes": "分",
+    "seconds": "秒"
+  },
+  "gift_cards": {
+    "issued": {
+      "title": "{{ shop }}の{{ value }}ギフトカードをプレゼントします!",
+      "subtext": "ギフトカードはこちらです!",
+      "disabled": "無効",
+      "expired": "{{ expiry }}に期限切れ",
+      "active": "{{ expiry }}に期限切れになります",
+      "redeem": "チェックアウト時にこのコードを使用してギフトカードを引き換えてください",
+      "shop_link": "ショッピングを始める",
+      "print": "印刷"
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox": "これを贈り物として送りたい",
+      "email_label": "受信者のEメール",
+      "email": "Eメール",
+      "name_label": "受取人名（オプション）",
+      "name": "名前",
+      "message_label": "メッセージ（オプション）",
+      "message": "メッセージ",
+      "max_characters": "{{ max_chars }}文字まで",
+      "send_on": "年-月-日",
+      "send_on_label": "送信する（オプション）"
+    }
+  },
+  "password": {
+    "page": {
+      "title": "まもなくオープン",
+      "powered_by": "このストアはMulti Paradoxによって運営されます"
+    },
+    "form": {
+      "success": "サインアップしていただきありがとうございます！",
+      "newsletter_title": "最新情報を購読する",
+      "placeholder": "メール@example.com",
+      "login": "パスワード"
+    },
+    "buttons": {
+      "sign_up": "サインアップ",
+      "store_login": "ストアログイン",
+      "newsletter_signup": "ニュースレター登録",
+      "login": "ログイン"
     }
   }
 }
