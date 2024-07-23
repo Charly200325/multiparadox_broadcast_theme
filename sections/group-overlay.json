@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "type": "aside",
   "name": "Overlay",
@@ -31,7 +40,7 @@
           "type": "free-shipping",
           "settings": {
             "message": "You are ||amount|| away from free shipping.",
-            "free_shipping_gradient": "",
+            "free_shipping_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 61%, rgba(43, 252, 135, 1) 83%)",
             "pin_to_bottom": false
           }
         },
