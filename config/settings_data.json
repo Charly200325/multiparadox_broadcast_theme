@@ -10,7 +10,7 @@
 {
   "current": {
     "text_color": "#000000",
-    "bg_color": "#eae7dc",
+    "bg_color": "#f7f7f7",
     "secondary_bg_color": "#F7F9FA",
     "accent_bright": "#e98074",
     "link_color": "#000000",
@@ -62,7 +62,7 @@
     "show_automatic_new_badge": false,
     "quickview_enable": true,
     "show_siblings": true,
-    "show_cutline": true,
+    "show_cutline": false,
     "variant_lines": true,
     "swatches_type": "native",
     "swatch_style": "circle",
