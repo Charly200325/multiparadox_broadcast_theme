@@ -60,7 +60,7 @@
     "badge_bg_color": "#5d5d5d",
     "show_sold_out_badge": true,
     "show_automatic_new_badge": false,
-    "quickview_enable": true,
+    "quickview_enable": false,
     "show_siblings": true,
     "show_cutline": false,
     "variant_lines": true,
