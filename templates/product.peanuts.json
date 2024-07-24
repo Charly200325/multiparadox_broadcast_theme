@@ -20,6 +20,12 @@
             "padding_bottom": 8
           }
         },
+        "sku_GPU6JY": {
+          "type": "sku",
+          "settings": {
+            "padding_bottom": 16
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -96,6 +102,7 @@
       },
       "block_order": [
         "title",
+        "sku_GPU6JY",
         "price",
         "variants",
         "buttons",
