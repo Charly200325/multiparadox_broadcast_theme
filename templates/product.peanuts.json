@@ -50,7 +50,7 @@
             "show_description": true,
             "show_read_more": false,
             "title_1": "製品仕様",
-            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "raw_content_1": "<p>{{ product.metafields.custom._spec | metafield_tag }}<\/p>",
             "title_2": "配送",
             "raw_content_2": "<p>送料は全国一律 ¥350 (税込)となります。<br\/>商品を合計 ¥4,950(税込)以上お買い上げ頂きますと、送料が無料となります。<\/p>",
             "title_3": "返品交換",
