@@ -67,6 +67,7 @@
     "swatches_type": "native",
     "swatch_style": "circle",
     "sibling_style": "swatch",
+    "cart_type": "page",
     "free_shipping_limit": "16500",
     "enable_accept_terms": false,
     "link_hover_color": "#063246",
