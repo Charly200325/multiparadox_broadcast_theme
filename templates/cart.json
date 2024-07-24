@@ -1,17 +1,21 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
       "type": "cart",
       "blocks": {
-        "cart-message": {
-          "type": "cart-message",
-          "settings": {
-          }
-        },
         "free-shipping": {
           "type": "free-shipping",
           "settings": {
-            "message": "You are ||amount|| away from free shipping.",
+            "message": "日本国内への配送については¥16,500（税込）以上お買い上げいただくと送料無料になります。",
             "free_shipping_gradient": ""
           }
         },
@@ -26,14 +30,23 @@
           "settings": {
           }
         },
-        "upsell-products": {
-          "type": "upsell-products",
+        "cart-message": {
+          "type": "cart-message",
           "settings": {
+            "cart_custom_message_text": "<p>Use coupon code <strong>WELCOME10<\/strong> for 10% off your first order.<\/p>",
+            "cart_custom_message_color": ""
           }
         },
         "checkout-buttons": {
           "type": "checkout-buttons",
           "settings": {
+            "enable_additional_buttons": false
+          }
+        },
+        "upsell-products": {
+          "type": "upsell-products",
+          "settings": {
+            "upsell_auto_open": true
           }
         }
       },
@@ -46,6 +59,8 @@
         "upsell-products"
       ],
       "settings": {
+        "padding_top": 80,
+        "padding_bottom": 50
       }
     }
   },
