@@ -228,7 +228,7 @@
       "tax": "税",
       "details": {
         "product": "製品",
-        "sku": "製品コード",
+        "sku": "品番：",
         "price": "価格",
         "quantity": "量",
         "total": "合計",
@@ -371,7 +371,7 @@
       "subscription": "サブスクリプション",
       "save": "保存",
       "off": "オフ",
-      "sku": "製品コード",
+      "sku": "品番：",
       "one_time_purchase": "1回限りの購入",
       "quantity": "量",
       "add_to_cart": "ショッピングカートに追加",
