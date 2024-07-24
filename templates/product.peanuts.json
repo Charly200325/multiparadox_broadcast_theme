@@ -69,18 +69,6 @@
             "padding_bottom": 16
           }
         },
-        "upsell": {
-          "type": "upsell",
-          "settings": {
-            "upsell_product": "nighty-night-bed",
-            "upsell_product_list": [
-              "common-lilac-collar-kit"
-            ],
-            "show_avaialable_upsell_only": false,
-            "bg_color": "",
-            "padding_bottom": 16
-          }
-        },
         "icon_1": {
           "type": "icon",
           "settings": {
@@ -113,7 +101,6 @@
         "buttons",
         "tabs",
         "divider_1",
-        "upsell",
         "icon_1",
         "icon_2"
       ],
