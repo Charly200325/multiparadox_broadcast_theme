@@ -37,7 +37,7 @@
           "settings": {
             "siblings_collection": "{{ product.metafields.theme.siblings.value }}",
             "sibling_color": "{{ product.metafields.theme.sibling_color.value }}",
-            "padding_bottom": 16
+            "padding_bottom": 14
           }
         },
         "variants": {
