@@ -66,7 +66,7 @@
     "variant_lines": true,
     "swatches_type": "native",
     "swatch_style": "circle",
-    "sibling_style": "swatch",
+    "sibling_style": "image",
     "cart_type": "page",
     "free_shipping_limit": "16500",
     "enable_accept_terms": false,
