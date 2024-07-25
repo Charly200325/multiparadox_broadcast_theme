@@ -11,10 +11,10 @@
   "general": {
     "ie11_support_message": "このサイトは、お使いのブラウザに対して限定的なサポートを提供しています。Edge、Chrome、Safari、または Firefox に切り替えることをお勧めします。",
     "swatches": {
-      "color": "カラー"
+      "color": "Color"
     },
     "siblings": {
-      "label": "カラー"
+      "label": "Color"
     },
     "products_with_count": {
       "one": "{{ count }}個",
@@ -300,7 +300,7 @@
       "collection_image": "コレクション画像",
       "collection_title": "コレクションタイトルの例",
       "size": "サイズ",
-      "color": "カラー"
+      "color": "Color"
     }
   },
   "layout": {
@@ -385,7 +385,7 @@
       "configure": "構成、設定",
       "select": "選択する",
       "select_value": "値を選択",
-      "select_color": "カラーを選択",
+      "select_color": "Colorを選択",
       "each": "それぞれ",
       "in_stock": "商品は在庫あり",
       "out_of_stock": "在庫切れです",
@@ -527,8 +527,8 @@
         "other": "アイテム"
       },
       "colors_with_count": {
-        "one": "カラー",
-        "other": "カラー"
+        "one": "Color",
+        "other": "Color"
       }
     },
     "sidebar": {
