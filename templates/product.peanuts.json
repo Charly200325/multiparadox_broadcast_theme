@@ -20,6 +20,14 @@
             "padding_bottom": 8
           }
         },
+        "siblings_KyTkaT": {
+          "type": "siblings",
+          "settings": {
+            "siblings_collection": "{{ product.metafields.theme.siblings.value }}",
+            "sibling_color": "{{ product.metafields.theme.sibling_color.value }}",
+            "padding_bottom": 16
+          }
+        },
         "sku_GPU6JY": {
           "type": "sku",
           "settings": {
@@ -99,18 +107,11 @@
             "width": "full",
             "padding_bottom": 16
           }
-        },
-        "siblings_KyTkaT": {
-          "type": "siblings",
-          "settings": {
-            "siblings_collection": "{{ product.metafields.theme.siblings.value }}",
-            "sibling_color": "{{ product.metafields.theme.sibling_color.value }}",
-            "padding_bottom": 16
-          }
         }
       },
       "block_order": [
         "title",
+        "siblings_KyTkaT",
         "sku_GPU6JY",
         "price",
         "variants",
@@ -118,8 +119,7 @@
         "tabs",
         "divider_1",
         "icon_1",
-        "icon_2",
-        "siblings_KyTkaT"
+        "icon_2"
       ],
       "settings": {
         "product_sticky_enable": true,
