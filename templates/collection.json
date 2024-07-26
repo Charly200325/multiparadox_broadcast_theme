@@ -42,30 +42,6 @@
     },
     "main": {
       "type": "collection",
-      "blocks": {
-        "featured_image_g7ACpb": {
-          "type": "featured_image",
-          "settings": {
-            "featured_image": "shopify:\/\/shop_images\/PawMintNightyNightBed2.jpg",
-            "position": 1,
-            "featured_heading": "Featured link",
-            "heading_size": 7,
-            "featured_text": "<p>Promote products or collections<\/p>",
-            "featured_button_text": "Learn more",
-            "featured_button_link": "",
-            "button_type": "btn--secondary",
-            "button_size": "",
-            "button_style": "btn--outline",
-            "show_arrow": false,
-            "featured_color_text": "#ffffff",
-            "featured_color_overlay": "#222222",
-            "featured_overlay_opacity": 10
-          }
-        }
-      },
-      "block_order": [
-        "featured_image_g7ACpb"
-      ],
       "settings": {
         "enable_sort": true,
         "enable_filters": true,
