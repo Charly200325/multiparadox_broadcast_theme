@@ -84,7 +84,7 @@
 
               <radio-swatch
                 class="swatches swatch__button swatch__button--{{ settings.swatch_style }} swatch-{{ swatch_color | handle }}"
-                style="--swatch: #000000;"
+                style="--swatch: var(--{{ swatch_color }});"
                 data-tooltip="{{ sib_color }}">
                 {%- if product_api -%}
                   {%- assign unique = section.id | append: '-' | append: sib_product.id -%}
