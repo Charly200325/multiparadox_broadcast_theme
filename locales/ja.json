@@ -458,7 +458,7 @@
     "general": {
       "title": "ショッピングカート",
       "vendor": "ブランド",
-      "remove": "取り除く",
+      "remove": "削除する",
       "subtotal": "小計",
       "subtotal_items": "アイテム",
       "subtotal_note": "配送料、税金、割引コードはチェックアウト時に計算されます",
