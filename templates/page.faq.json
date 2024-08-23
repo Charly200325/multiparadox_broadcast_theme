@@ -130,6 +130,18 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_Dd7tV3": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "ギフトラッピングについて",
+            "content": "<p>現在、ギフトラッピングのサービスは実施しておりません。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -141,7 +153,8 @@
         "question_Dyknzq",
         "question_8L9hda",
         "question_WWzLqK",
-        "question_7AUVtV"
+        "question_7AUVtV",
+        "question_Dd7tV3"
       ],
       "settings": {
         "width": "wrapper--narrow",
