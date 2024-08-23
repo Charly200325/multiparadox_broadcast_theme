@@ -118,6 +118,18 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_7AUVtV": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "アイテムに不具合があった場合",
+            "content": "<p>ご迷惑をおかけしており大変申し訳ございません。<\/p><p>Multi Paradoxオンラインストアで購入された商品については、商品到着日を含めて30日以内にお問い合わせ窓口にご連絡の上、商品を返送してください。購入時期や商品の状態を確認後、対応させていただきます。<\/p><p>ただし、弊社に起因する不具合がない場合や、商品に不具合があったとしても当社基準で「未使用品」と判断できない場合は、対応をお断りすることがありますので、あらかじめご了承ください。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -128,7 +140,8 @@
         "question_LbYN49",
         "question_Dyknzq",
         "question_8L9hda",
-        "question_WWzLqK"
+        "question_WWzLqK",
+        "question_7AUVtV"
       ],
       "settings": {
         "width": "wrapper--narrow",
