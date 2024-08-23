@@ -82,6 +82,30 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_Dyknzq": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "お届け先の変更について",
+            "content": "<p>誤配送などのトラブルを防ぐため、注文完了後の配送先変更には対応しておりません。配送先の変更が必要な場合は、マイページ内の「購入履歴\/配送状況確認」から配送会社の「問い合わせ番号」をご確認の上、お客様ご自身で配送会社へご連絡いただき、変更手続きをお願いいたします。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_8L9hda": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "配送状況の確認について",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -89,7 +113,9 @@
         "faq-0",
         "faq-1",
         "faq-2",
-        "question_LbYN49"
+        "question_LbYN49",
+        "question_Dyknzq",
+        "question_8L9hda"
       ],
       "settings": {
         "width": "wrapper--narrow",
