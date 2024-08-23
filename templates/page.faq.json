@@ -106,6 +106,18 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_WWzLqK": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "注文取消・返品について",
+            "content": "<p>注文と異なる商品が到着した場合、または商品に不具合があった場合を除き、どのような場合でも注文完了後のキャンセルはできません。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -115,7 +127,8 @@
         "faq-2",
         "question_LbYN49",
         "question_Dyknzq",
-        "question_8L9hda"
+        "question_8L9hda",
+        "question_WWzLqK"
       ],
       "settings": {
         "width": "wrapper--narrow",
