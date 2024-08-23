@@ -142,6 +142,18 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_MGaPhK": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "アカウント登録について",
+            "content": "<p>Multi Paradoxオンラインストアでお買い物をするには、アカウント登録が必要です。アカウント登録には年会費や登録料、更新料、維持費などの料金は一切かかりません。<\/p><p>「アカウント新規登録」から登録手続きを行ってください。登録後は、メールアドレスとパスワードでログインが可能です。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -154,7 +166,8 @@
         "question_8L9hda",
         "question_WWzLqK",
         "question_7AUVtV",
-        "question_Dd7tV3"
+        "question_Dd7tV3",
+        "question_MGaPhK"
       ],
       "settings": {
         "width": "wrapper--narrow",
