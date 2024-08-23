@@ -154,6 +154,18 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_ErJJLP": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "アカウント登録ができない場合",
+            "content": "<p>同じメールアドレスで既にアカウントが登録されている可能性があります。まずは、お持ちのメールアドレスでログインをお試しください。<\/p><p>パスワードをお忘れの場合は、「パスワードの再発行」から再設定を行ってください。<\/p><p>それでもアカウント登録ができない場合は、お手数ですがお問い合わせフォームよりご連絡ください。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -167,7 +179,8 @@
         "question_WWzLqK",
         "question_7AUVtV",
         "question_Dd7tV3",
-        "question_MGaPhK"
+        "question_MGaPhK",
+        "question_ErJJLP"
       ],
       "settings": {
         "width": "wrapper--narrow",
