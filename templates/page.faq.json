@@ -166,6 +166,18 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_iWqqfB": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "IDとパスワードをお忘れの場合（ログインできない）",
+            "content": "<p>ログインは、ご登録のメールアドレスとパスワードで行います。<\/p><p><strong>【メールアドレスを忘れた場合】<\/strong><br\/>登録したメールアドレスを忘れた場合は、各種お問い合わせからご連絡ください。<\/p><p><strong>【パスワードを忘れた場合】<\/strong><br\/>パスワードを忘れた場合は、「パスワードの再発行」から仮パスワードを発行し、再設定を行ってください。<\/p><p><strong>【パスワード再設定後にログインできない場合】<\/strong><br\/>再設定後、パスワード情報が反映されるまでにタイムラグが生じることがあります。10分程度お待ちの上、再度ログインをお試しください。それでもログインできない場合は、各種お問い合わせからご連絡ください。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -180,7 +192,8 @@
         "question_7AUVtV",
         "question_Dd7tV3",
         "question_MGaPhK",
-        "question_ErJJLP"
+        "question_ErJJLP",
+        "question_iWqqfB"
       ],
       "settings": {
         "width": "wrapper--narrow",
