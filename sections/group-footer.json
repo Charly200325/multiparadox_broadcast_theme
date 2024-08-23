@@ -39,6 +39,15 @@
             "enable_accordion": false
           }
         },
+        "page_c4ptY6": {
+          "type": "page",
+          "settings": {
+            "page": "faq",
+            "title": "FAQ",
+            "column_width": 33,
+            "enable_accordion": false
+          }
+        },
         "footer-2": {
           "type": "text",
           "settings": {
@@ -53,6 +62,7 @@
       "block_order": [
         "footer-0",
         "footer-1",
+        "page_c4ptY6",
         "footer-2"
       ],
       "settings": {
