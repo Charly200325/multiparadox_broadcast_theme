@@ -178,6 +178,18 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_qrXG66": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "退会手続き",
+            "content": "<p>退会を希望される場合は、お問い合わせフォームからご連絡ください。退会後は登録情報や注文情報をご確認いただけませんので、予めご了承ください。<\/p><p>なお、既に購入された商品については、退会後も発送させていただきます。<\/p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
@@ -193,7 +205,8 @@
         "question_Dd7tV3",
         "question_MGaPhK",
         "question_ErJJLP",
-        "question_iWqqfB"
+        "question_iWqqfB",
+        "question_qrXG66"
       ],
       "settings": {
         "width": "wrapper--narrow",
