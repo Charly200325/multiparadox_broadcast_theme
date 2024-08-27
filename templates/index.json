@@ -88,11 +88,11 @@
     "section_collection_9nXjUD": {
       "type": "section-collection",
       "settings": {
-        "heading": "Peanuts Collection",
+        "heading": "Wallet Collection",
         "description": "",
         "layout": "inline",
         "link_text": "",
-        "link_url": "shopify:\/\/collections\/peanuts",
+        "link_url": "shopify:\/\/collections\/wallets",
         "button_type": "btn--black",
         "button_size": "",
         "button_style": "btn--solid",
