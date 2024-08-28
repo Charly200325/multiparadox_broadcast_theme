@@ -44,7 +44,7 @@
           "settings": {
             "image_width": 150,
             "title": "Contact",
-            "text": "<p>1234 Main Street <br>New York, NY 12345 <br> 123.456.7890<br>help@broadcast.com<\/p>",
+            "text": "<p>お問合せは<a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">こちら<\/a>からお願いします。<\/p>",
             "column_width": 33,
             "enable_accordion": false
           }
