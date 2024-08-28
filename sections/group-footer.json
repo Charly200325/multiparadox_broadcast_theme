@@ -18,9 +18,9 @@
           "type": "newsletter",
           "settings": {
             "title": "Newsletter",
-            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+            "text": "<p>最新情報をメールで受け取りたい方はこちらからご登録ください。<\/p>",
             "show_name": true,
-            "button_text": "Join",
+            "button_text": "登録する",
             "show_arrow": false,
             "terms": true,
             "button_type": "btn--black",
