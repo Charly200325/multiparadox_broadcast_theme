@@ -96,7 +96,7 @@
       "settings": {
         "layout": "",
         "height": "image-height",
-        "mobile_height": "four-fifty-height-hero--mobile",
+        "mobile_height": "image-height--mobile",
         "width": "wrapper--full",
         "image_1": "shopify:\/\/shop_images\/Shun2.jpg",
         "image_width": "one-half",
