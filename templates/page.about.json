@@ -68,92 +68,13 @@
         "padding_bottom": 50
       }
     },
-    "columns": {
-      "type": "section-columns",
-      "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image_aspect_ratio": 1.2,
-            "mobile_image_aspect_ratio": 1,
-            "image_shape": "normal",
-            "title": "Add a title or tagline",
-            "heading_size": 4,
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "text_size": 3,
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image_aspect_ratio": 1.2,
-            "mobile_image_aspect_ratio": 1,
-            "image_shape": "normal",
-            "title": "Add a title or tagline",
-            "heading_size": 4,
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "text_size": 3,
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image_aspect_ratio": 1.2,
-            "mobile_image_aspect_ratio": 1,
-            "image_shape": "normal",
-            "title": "Add a title or tagline",
-            "heading_size": 4,
-            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "text_size": 3,
-            "button_text": "",
-            "button_url": "",
-            "button_type": "btn--primary hero__btn",
-            "button_size": "",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "image-1",
-        "image-2",
-        "image-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": 5,
-        "layout": "grid",
-        "grid": 3,
-        "align_heading": "text-left",
-        "align_text": "text-center",
-        "align_columns": "flex-align-top",
-        "width": "wrapper--full-padded",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50,
-        "layout_mobile": "slider"
-      }
-    },
     "double-2": {
       "type": "section-double",
       "blocks": {
         "heading-2-1": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "Garry Panda",
             "text_size": 7,
             "padding_bottom": 16
           }
@@ -161,7 +82,7 @@
         "text-2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>2024年、ライフスタイルブランド「Multi Paradox」をスタート。<\/p><p>当社代表取締役CEO兼クリエイティブ・ディレクターに就任。<\/p>",
             "text_size": 3,
             "text_style": "font-body",
             "padding_bottom": 16
@@ -177,6 +98,7 @@
         "height": "sixty-fifty-height-hero",
         "mobile_height": "four-fifty-height-hero--mobile",
         "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Shun2.jpg",
         "image_width": "one-half",
         "text_alignment": "text-left",
         "reverse_blocks": false,
@@ -348,7 +270,6 @@
   "order": [
     "main",
     "double-1",
-    "columns",
     "double-2",
     "announcement",
     "collections-list",
