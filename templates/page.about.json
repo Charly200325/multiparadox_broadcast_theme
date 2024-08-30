@@ -33,7 +33,7 @@
         "heading-1-1": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
+            "title": "Multi Paradox",
             "text_size": 7,
             "padding_bottom": 16
           }
@@ -41,7 +41,7 @@
         "text-1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Multi Paradoxは、異なるコンセプトが調和する日本国内セレクトショップです。国内で作られた高品質なアパレル、アクセサリー、雑貨などを取り扱い、洗練されたデザインの商品を揃えています。<\/p>",
             "text_size": 3,
             "text_style": "font-body",
             "padding_bottom": 16
