@@ -254,7 +254,7 @@
     },
     "register": {
       "title": "アカウントを作成する",
-      "first_name": "名前",
+      "first_name": "名",
       "last_name": "姓",
       "email": "Eメール",
       "password": "パスワード",
