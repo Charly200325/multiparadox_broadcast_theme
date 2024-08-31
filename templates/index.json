@@ -46,7 +46,7 @@
         "slideshow-0"
       ],
       "settings": {
-        "height": "screen-height-two-thirds",
+        "height": "screen-height-full",
         "mobile_height": "screen-height-three-quarters--mobile",
         "width": "wrapper--full",
         "transition": "slide",
