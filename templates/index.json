@@ -15,8 +15,8 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Peanuts_copy.jpg",
-            "overlay_opacity": 30,
+            "image": "shopify:\/\/shop_images\/Hero_1_copy.jpg",
+            "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
             "title": "Peanuts",
