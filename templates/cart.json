@@ -31,6 +31,11 @@
           "settings": {
           }
         },
+        "plus_shipping_app_block_z64UQ6": {
+          "type": "shopify:\/\/apps\/plus-shipping\/blocks\/app-block\/dbcc550b-0a73-4f3c-8157-065414292853",
+          "settings": {
+          }
+        },
         "cart-message": {
           "type": "cart-message",
           "disabled": true,
@@ -50,21 +55,16 @@
           "settings": {
             "upsell_auto_open": true
           }
-        },
-        "plus_shipping_app_block_z64UQ6": {
-          "type": "shopify:\/\/apps\/plus-shipping\/blocks\/app-block\/dbcc550b-0a73-4f3c-8157-065414292853",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "free-shipping",
         "order-note",
         "gift-note",
+        "plus_shipping_app_block_z64UQ6",
         "cart-message",
         "checkout-buttons",
-        "upsell-products",
-        "plus_shipping_app_block_z64UQ6"
+        "upsell-products"
       ],
       "settings": {
         "padding_top": 80,
