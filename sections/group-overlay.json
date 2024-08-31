@@ -59,7 +59,6 @@
         },
         "order-note": {
           "type": "order-note",
-          "disabled": true,
           "settings": {
             "pin_to_bottom": false
           }

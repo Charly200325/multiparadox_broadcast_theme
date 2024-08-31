@@ -27,11 +27,13 @@
         },
         "gift-note": {
           "type": "gift-note",
+          "disabled": true,
           "settings": {
           }
         },
         "cart-message": {
           "type": "cart-message",
+          "disabled": true,
           "settings": {
             "cart_custom_message_text": "<p>Use coupon code <strong>WELCOME10<\/strong> for 10% off your first order.<\/p>",
             "cart_custom_message_color": ""
@@ -48,6 +50,11 @@
           "settings": {
             "upsell_auto_open": true
           }
+        },
+        "plus_shipping_app_block_z64UQ6": {
+          "type": "shopify:\/\/apps\/plus-shipping\/blocks\/app-block\/dbcc550b-0a73-4f3c-8157-065414292853",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -56,7 +63,8 @@
         "gift-note",
         "cart-message",
         "checkout-buttons",
-        "upsell-products"
+        "upsell-products",
+        "plus_shipping_app_block_z64UQ6"
       ],
       "settings": {
         "padding_top": 80,
