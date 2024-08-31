@@ -89,6 +89,7 @@
         "gift-note",
         "checkout-buttons"
       ],
+      "disabled": true,
       "settings": {
       }
     }
