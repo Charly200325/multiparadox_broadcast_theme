@@ -203,7 +203,7 @@
       "guest_title": "ゲストとして続行",
       "guest_continue": "続く",
       "create_account_prompt": "アカウントをお持ちではありませんか?",
-      "create_account_cta": "こちらから登録"
+      "create_account_cta": "アカウントを作成"
     },
     "orders": {
       "title": "注文履歴",
