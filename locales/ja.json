@@ -183,7 +183,7 @@
       "add_new": "新しいアドレスを追加",
       "edit_address": "住所を編集",
       "first_name": "名前",
-      "last_name": "苗字",
+      "last_name": "姓",
       "company": "会社",
       "address1": "住所（1",
       "address2": "アドレス2",
@@ -255,7 +255,7 @@
     "register": {
       "title": "アカウントを作成する",
       "first_name": "名前",
-      "last_name": "苗字",
+      "last_name": "姓",
       "email": "Eメール",
       "password": "パスワード",
       "submit": "作成する",
