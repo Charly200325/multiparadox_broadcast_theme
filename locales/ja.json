@@ -210,7 +210,7 @@
       "order_number": "注文",
       "date": "日付",
       "payment_status": "支払い状況",
-      "fulfillment_status": "履行状況",
+      "fulfillment_status": "配送ステータス",
       "total": "合計",
       "none": "まだ注文は出ていません。"
     },
@@ -222,7 +222,7 @@
       "billing_address": "請求先住所",
       "payment_status": "支払い状況",
       "shipping_address": "お届け先の住所",
-      "fulfillment_status": "履行状況",
+      "fulfillment_status": "配送ステータス",
       "discount": "割引",
       "shipping": "配送",
       "tax": "税",
