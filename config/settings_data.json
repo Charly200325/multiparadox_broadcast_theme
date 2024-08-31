@@ -73,6 +73,7 @@
     "swatches_type": "native",
     "swatch_style": "circle",
     "sibling_style": "image",
+    "favicon": "shopify:\/\/shop_images\/Multi_Paradox_Favicon_copy.jpg",
     "cart_type": "page",
     "free_shipping_limit": "16500",
     "enable_accept_terms": false,
