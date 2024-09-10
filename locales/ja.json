@@ -171,13 +171,13 @@
   },
   "customer": {
     "addresses": {
-      "set_default": "デフォルトのアドレスとして設定",
+      "set_default": "デフォルトの住所として設定",
       "add": "住所を追加",
       "update": "住所の更新",
       "cancel": "キャンセル",
       "edit": "編集",
       "delete": "消去",
-      "delete_confirm": "このアドレスを削除してもよろしいですか?",
+      "delete_confirm": "この住所を削除してもよろしいですか?",
       "title": "あなたの住所",
       "default": "デフォルト",
       "add_new": "新しい住所を追加",
