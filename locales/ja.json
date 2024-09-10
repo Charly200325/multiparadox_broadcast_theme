@@ -180,7 +180,7 @@
       "delete_confirm": "このアドレスを削除してもよろしいですか?",
       "title": "あなたの住所",
       "default": "デフォルト",
-      "add_new": "新しいアドレスを追加",
+      "add_new": "新しい住所を追加",
       "edit_address": "住所を編集",
       "first_name": "名",
       "last_name": "姓",
@@ -554,6 +554,9 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "addresses": {
+      "confirm": "この住所を削除してもよろしいでしょうか？"
     }
   }
 }
