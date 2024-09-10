@@ -557,6 +557,11 @@
     },
     "addresses": {
       "confirm": "この住所を削除してもよろしいでしょうか？"
+    },
+    "checkout": {
+      "shipping": {
+        "address_confirm": "アカウントからこの住所を削除してもよろしいでしょうか？"
+      }
     }
   }
 }
