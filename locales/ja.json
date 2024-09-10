@@ -187,7 +187,7 @@
       "company": "会社",
       "address1": "住所（町・番地）",
       "address2": "住所（建物名・部屋番号）",
-      "city": "市",
+      "city": "市区町村 ",
       "country": "国",
       "province": "州",
       "zip": "郵便番号",
@@ -564,6 +564,9 @@
       },
       "payment": {
         "ftd_vault_credit_card_label": "スピーディーなチェックアウトののため、このクレジットカード情報をマイページに保存する"
+      },
+      "contact": {
+        "city_label": "市区町村 "
       }
     }
   }
