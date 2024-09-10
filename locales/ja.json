@@ -265,7 +265,7 @@
     },
     "account": {
       "account": "アカウント",
-      "title": "マイページ",
+      "title": "マイページ ",
       "details": "アカウント詳細",
       "view_addresses": "住所を表示",
       "return": "アカウント詳細に戻る",
@@ -561,6 +561,9 @@
     "checkout": {
       "shipping": {
         "address_confirm": "アカウントからこの住所を削除してもよろしいでしょうか？"
+      },
+      "payment": {
+        "ftd_vault_credit_card_label": "スピーディーなチェックアウトののため、このクレジットカード情報をマイページに保存する"
       }
     }
   }
