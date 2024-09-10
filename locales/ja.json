@@ -265,7 +265,7 @@
     },
     "account": {
       "account": "アカウント",
-      "title": "私のアカウント",
+      "title": "マイページ",
       "details": "アカウント詳細",
       "view_addresses": "住所を表示",
       "return": "アカウント詳細に戻る",
