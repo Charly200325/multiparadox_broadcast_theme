@@ -24,11 +24,17 @@
           "settings": {
             "enable_additional_buttons": false
           }
+        },
+        "payment_icons_RJxg6L": {
+          "type": "payment-icons",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "cart-message",
-        "checkout-buttons"
+        "checkout-buttons",
+        "payment_icons_RJxg6L"
       ],
       "settings": {
         "padding_top": 80,
