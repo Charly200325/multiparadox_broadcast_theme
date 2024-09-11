@@ -17,17 +17,21 @@
       "settings": {
       },
       "blocks": {
-        "free_shipping_pdkTUN": {
+        "free_shipping_bfgmp": {
+          "type": "free-shipping",
+          "disabled": false,
           "settings": {
-            "message": "日本国内への配送については、¥16,500（税込）以上\nお買い上げいただくと送料無料になります。\n<br>\n送料無料まであと ||amount|| （税込）"
+            "paragraph-b5bfe4058bcbbaddef6b0851e65e30c5": null,
+            "message": "日本国内への配送については、¥16,500（税込）以上\nお買い上げいただくと送料無料になります。\n<br>\n送料無料まであと ||amount|| （税込）",
+            "free_shipping_gradient": ""
           }
         }
       },
       "block_order": [
-        "free_shipping_pdkTUN",
         "cart_message_ntLhD3",
         "checkout-buttons",
-        "payment_icons_RJxg6L"
+        "payment_icons_RJxg6L",
+        "free_shipping_bfgmp"
       ]
     }
   },
