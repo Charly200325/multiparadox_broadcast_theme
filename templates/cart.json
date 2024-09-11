@@ -24,18 +24,11 @@
           "settings": {
             "enable_additional_buttons": false
           }
-        },
-        "upsell-products": {
-          "type": "upsell-products",
-          "settings": {
-            "upsell_auto_open": true
-          }
         }
       },
       "block_order": [
         "cart-message",
-        "checkout-buttons",
-        "upsell-products"
+        "checkout-buttons"
       ],
       "settings": {
         "padding_top": 80,
