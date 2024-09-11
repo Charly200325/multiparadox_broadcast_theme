@@ -12,11 +12,10 @@
     "main": {
       "type": "cart",
       "blocks": {
-        "cart-message": {
-          "type": "cart-message",
+        "code_MMqbDd": {
+          "type": "code",
           "settings": {
-            "cart_custom_message_text": "<p>関税について日本国外への配送については、国により関税が掛かる場合がございます。目安としては下記の通りです。<\/p><p>輸入合計金額：¥7,800<\/p><p>輸入関税金額：¥780 - ¥1,170<\/p>",
-            "cart_custom_message_color": ""
+            "code": "<p style='margin:0;'>関税について日本国外への配送については、国により関税が掛かる場合がございます。目安としては下記の通りです。<br>・輸入合計金額：¥7,800<br>・輸入関税金額：¥780 - ¥1,170<\/p>"
           }
         },
         "checkout-buttons": {
@@ -32,7 +31,7 @@
         }
       },
       "block_order": [
-        "cart-message",
+        "code_MMqbDd",
         "checkout-buttons",
         "payment_icons_RJxg6L"
       ],
