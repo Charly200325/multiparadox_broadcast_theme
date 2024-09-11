@@ -12,35 +12,10 @@
     "main": {
       "type": "cart",
       "blocks": {
-        "free-shipping": {
-          "type": "free-shipping",
-          "settings": {
-            "message": "日本国内への配送については¥16,500（税込）以上お買い上げいただくと送料無料になります。\n<br><br>\n送料無料まであと||amount||（税込）",
-            "free_shipping_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)"
-          }
-        },
-        "order-note": {
-          "type": "order-note",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "gift-note": {
-          "type": "gift-note",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "plus_shipping_app_block_z64UQ6": {
-          "type": "shopify:\/\/apps\/plus-shipping\/blocks\/app-block\/dbcc550b-0a73-4f3c-8157-065414292853",
-          "settings": {
-          }
-        },
         "cart-message": {
           "type": "cart-message",
-          "disabled": true,
           "settings": {
-            "cart_custom_message_text": "<p>Use coupon code <strong>WELCOME10<\/strong> for 10% off your first order.<\/p>",
+            "cart_custom_message_text": "<p>関税について日本国外への配送については、国により関税が掛かる場合がございます。目安としては下記の通りです。<\/p><ul><li>輸入合計金額：¥7,800<\/li><li>輸入関税金額：¥780 - ¥1,170<\/li><\/ul>",
             "cart_custom_message_color": ""
           }
         },
@@ -58,10 +33,6 @@
         }
       },
       "block_order": [
-        "free-shipping",
-        "order-note",
-        "gift-note",
-        "plus_shipping_app_block_z64UQ6",
         "cart-message",
         "checkout-buttons",
         "upsell-products"
