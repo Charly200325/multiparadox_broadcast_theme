@@ -44,6 +44,9 @@
         "checkout-buttons",
         "payment_icons_RJxg6L"
       ],
+      "custom_css": [
+        ".cart__message--custom {text-align: left;}"
+      ],
       "settings": {
         "padding_top": 80,
         "padding_bottom": 50
