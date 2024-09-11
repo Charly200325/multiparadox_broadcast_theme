@@ -28,10 +28,10 @@
         }
       },
       "block_order": [
+        "free_shipping_bfgmp",
         "cart_message_ntLhD3",
         "checkout-buttons",
-        "payment_icons_RJxg6L",
-        "free_shipping_bfgmp"
+        "payment_icons_RJxg6L"
       ]
     }
   },
