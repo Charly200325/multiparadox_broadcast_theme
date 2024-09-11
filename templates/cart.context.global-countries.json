@@ -13,5 +13,16 @@
     "market": "global-countries"
   },
   "sections": {
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "free_shipping_pdkTUN": {
+          "disabled": true,
+          "settings": {
+          }
+        }
+      }
+    }
   }
 }
