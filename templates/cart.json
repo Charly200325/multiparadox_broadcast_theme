@@ -12,10 +12,18 @@
     "main": {
       "type": "cart",
       "blocks": {
-        "code_MMqbDd": {
-          "type": "code",
+        "cart_message_ntLhD3": {
+          "type": "cart-message",
           "settings": {
-            "code": "<p style='margin:0;'>関税について日本国外への配送については、国により関税が掛かる場合がございます。目安としては下記の通りです。<br><br>・輸入合計金額：¥7,800<br>・輸入関税金額：¥780 - ¥1,170<br><br>上記の内容でよろしければ「購入手続きへ」ボタンをクリックしてください。\n<\/p>"
+            "cart_custom_message_text": "<p>関税について日本国外への配送については、国により関税が掛かる場合がございます。目安としては下記の通りです。<br\/><br\/>・輸入合計金額：¥7,800<br\/>・輸入関税金額：¥780 - ¥1,170<br\/><br\/>上記の内容でよろしければ「購入手続きへ」ボタンをクリックしてください。<br\/><\/p>",
+            "cart_custom_message_color": ""
+          }
+        },
+        "free_shipping_pdkTUN": {
+          "type": "free-shipping",
+          "settings": {
+            "message": "日本国内への配送については、¥16,500（税込）以上\nお買い上げいただくと送料無料になります。\n送料無料まであと ||amount|| （税込）",
+            "free_shipping_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)"
           }
         },
         "checkout-buttons": {
@@ -28,20 +36,13 @@
           "type": "payment-icons",
           "settings": {
           }
-        },
-        "free_shipping_pdkTUN": {
-          "type": "free-shipping",
-          "settings": {
-            "message": "日本国内への配送については、¥16,500（税込）以上\nお買い上げいただくと送料無料になります。\n送料無料まであと ||amount|| （税込）",
-            "free_shipping_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)"
-          }
         }
       },
       "block_order": [
-        "code_MMqbDd",
+        "cart_message_ntLhD3",
+        "free_shipping_pdkTUN",
         "checkout-buttons",
-        "payment_icons_RJxg6L",
-        "free_shipping_pdkTUN"
+        "payment_icons_RJxg6L"
       ],
       "settings": {
         "padding_top": 80,
