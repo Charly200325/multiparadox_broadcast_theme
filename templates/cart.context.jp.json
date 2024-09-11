@@ -13,5 +13,20 @@
     "market": "jp"
   },
   "sections": {
-  }
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+      },
+      "block_order": [
+        "free_shipping_pdkTUN",
+        "cart_message_ntLhD3",
+        "checkout-buttons",
+        "payment_icons_RJxg6L"
+      ]
+    }
+  },
+  "order": [
+    "main"
+  ]
 }
