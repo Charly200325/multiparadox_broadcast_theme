@@ -568,6 +568,14 @@
       "contact": {
         "city_label": "市区町村 "
       }
+    },
+    "notices": {
+      "order": {
+        "fulfillment_status": {
+          "fulfilled": "発送済み",
+          "unfulfilled": "発送準備中"
+        }
+      }
     }
   }
 }
