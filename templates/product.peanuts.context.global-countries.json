@@ -13,5 +13,16 @@
     "market": "global-countries"
   },
   "sections": {
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "icon_2": {
+          "disabled": true,
+          "settings": {
+          }
+        }
+      }
+    }
   }
 }
