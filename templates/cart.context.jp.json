@@ -17,6 +17,11 @@
       "settings": {
       },
       "blocks": {
+        "free_shipping_pdkTUN": {
+          "settings": {
+            "message": "日本国内への配送については、¥16,500（税込）以上\nお買い上げいただくと送料無料になります。\n<br>\n送料無料まであと ||amount|| （税込）"
+          }
+        }
       },
       "block_order": [
         "free_shipping_pdkTUN",
