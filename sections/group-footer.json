@@ -34,7 +34,7 @@
           "type": "linklist",
           "settings": {
             "linklist": "footer",
-            "title": "",
+            "title": "サービス",
             "column_width": 33,
             "enable_accordion": false
           }
