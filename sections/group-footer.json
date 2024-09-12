@@ -17,7 +17,7 @@
         "footer-0": {
           "type": "newsletter",
           "settings": {
-            "title": "Newsletter",
+            "title": "ニュースレター",
             "text": "<p>最新情報をメールで受け取りたい方はこちらからご登録ください。<\/p>",
             "show_name": true,
             "button_text": "登録する",
