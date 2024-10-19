@@ -65,7 +65,7 @@
         "color": "",
         "show_placeholder": true,
         "padding_top": 0,
-        "padding_bottom": 50
+        "padding_bottom": 0
       }
     },
     "double-2": {
@@ -105,8 +105,8 @@
         "bg_color": "",
         "color": "",
         "show_placeholder": true,
-        "padding_top": 50,
-        "padding_bottom": 50
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
