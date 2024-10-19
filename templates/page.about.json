@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -41,7 +41,7 @@
         "text-1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Multi Paradoxは、異なるコンセプトが調和する日本国内セレクトショップです。国内で作られた高品質なアパレル、アクセサリー、雑貨などを取り扱い、洗練されたデザインの商品を揃えています。</p><p></p><p>「Multi Paradox」という名前には、異なる要素が混ざり合い、一見矛盾しているようで実は調和しているという私たちのブランドコンセプトが込められています。各ブランドの個性が共存し、伝統とモダン、エレガントとカジュアルが融合する、新しいスタイルの提案を目指しています。</p>",
+            "text": "<p>Multi Paradoxは、国内アパレルブランドの魅力を広めるだけでなく、「衣」から「食」「住」までを独自の世界観で提案するセレクトショップです。取り扱うすべての製品は国産ブランドにこだわり、洗練された日本のライフスタイルを世界に届けています。</p><p>Multi Paradoxでは、まだ広く認知されていない高品質な国産ブランドを取り扱う予定であり、新しいコンセプトやデザインを発信する場を提供します。</p>",
             "text_size": 3,
             "text_style": "font-body",
             "padding_bottom": 16
