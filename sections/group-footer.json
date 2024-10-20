@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "Footer",
@@ -18,7 +18,7 @@
           "type": "newsletter",
           "settings": {
             "title": "ニュースレター",
-            "text": "<p>最新情報をメールで受け取りたい方はこちらからご登録ください。<\/p>",
+            "text": "<p>最新情報をメールで受け取りたい方はこちらからご登録ください。</p>",
             "show_name": true,
             "button_text": "登録する",
             "show_arrow": false,
@@ -44,7 +44,7 @@
           "settings": {
             "image_width": 150,
             "title": "ヘルプ",
-            "text": "<p>お問合せは<a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">こちら<\/a>からお願いします。<\/p>",
+            "text": "<p>お問合せは<a href=\"/pages/contact\" target=\"_blank\" title=\"Contact\">こちら</a>からお願いします。</p>",
             "column_width": 33,
             "enable_accordion": false
           }
@@ -66,7 +66,7 @@
       "type": "section-supporting-menu",
       "settings": {
         "linklist": "",
-        "footer_payment_enable": false,
+        "footer_payment_enable": true,
         "show_locale_selector": true,
         "show_country_selector": true,
         "show_country_name": false,
