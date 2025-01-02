@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -15,21 +15,21 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_1_copy.jpg",
+            "image": "shopify://shop_images/PAW-1474.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
-            "title": "Peanuts",
+            "title": "Paw Mint",
             "heading_size": 11,
-            "description": "Peanutsのレザー財布と共にワンランク上のエレガントな日常を。",
+            "description": "愛犬との大切な時間を\nより楽しく、\nよりオシャレに",
             "text_size": 5,
-            "flex_align_desktop": "align--middle-center-desktop",
-            "flex_align_mobile": "align--middle-center-mobile",
+            "flex_align_desktop": "align--top-left-desktop",
+            "flex_align_mobile": "align--bottom-left-mobile",
             "bg_color": "",
-            "color": "#ffffff",
+            "color": "#000000",
             "first_button_text": "商品を見る",
-            "first_button_link": "shopify:\/\/collections\/peanuts",
-            "first_button_type": "btn--primary",
+            "first_button_link": "shopify://collections/peanuts",
+            "first_button_type": "btn--black",
             "first_button_size": "",
             "first_button_style": "btn--solid",
             "first_button_show_arrow": false,
@@ -47,7 +47,7 @@
       ],
       "settings": {
         "height": "screen-height-full",
-        "mobile_height": "screen-height-three-quarters--mobile",
+        "mobile_height": "screen-height-two-thirds--mobile",
         "width": "wrapper--full",
         "transition": "slide",
         "show_arrows": true,
@@ -64,7 +64,7 @@
         "description": "",
         "layout": "inline",
         "link_text": "",
-        "link_url": "shopify:\/\/collections\/wallet-collection",
+        "link_url": "shopify://collections/wallet-collection",
         "button_type": "btn--black",
         "button_size": "",
         "button_style": "btn--solid",
